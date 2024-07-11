@@ -117,6 +117,20 @@ flutter pub get
 flutter run
 ```
 
+# Demo
+
+<p>
+<img src='./screen/screen1.jpg' height="400"/>
+<img src='./screen/screen2.jpg' height="400"/>
+<img src='./screen/screen3.jpg' height="400"/>
+<img src='./screen/screen4.jpg' height="400"/>
+<img src='./screen/screen5.jpg' height="400"/>
+<img src='./screen/screen6.jpg' height="400"/>
+<img src='./screen/screen7.jpg' height="400"/>
+<img src='./screen/screen8.jpg' height="400"/>
+<img src='./screen/screen9.jpg' height="400"/>
+</p>
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
