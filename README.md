@@ -6,11 +6,11 @@ The Spotify Music App Clone is a comprehensive music streaming application that 
 
 ## Projects
 
-| #SL | Name         | Code                                                                     | Demo     |
-| --- | ------------ | ------------------------------------------------------------------------ | -------- |
-| 01  | React Native | [Link](https://github.com/DeveloperRejaul/react-native-online-music-app) | [Link]() |
-| 02  | Flutter      | [Link](https://github.com/DeveloperRejaul/flutter-online-music-app)      | [Link]() |
-| 03  | Server       | [Link](https://github.com/DeveloperRejaul/nodejs-music-streaming-server) | [Link]() |
+| #SL | Name         | Code                                                                     | Demo          |
+| --- | ------------ | ------------------------------------------------------------------------ | ------------- |
+| 01  | React Native | [Link](https://github.com/DeveloperRejaul/react-native-online-music-app) | [Link](#demo) |
+| 02  | Flutter      | [Link](https://github.com/DeveloperRejaul/flutter-online-music-app)      | [Link](#demo) |
+| 03  | Server       | [Link](https://github.com/DeveloperRejaul/nodejs-music-streaming-server) | [Link](#demo) |
 
 ## Features
 
