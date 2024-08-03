@@ -6,11 +6,25 @@ The Spotify Music App Clone is a comprehensive music streaming application that 
 
 ## Projects
 
-| #SL | Name         | Code                                                                     | Demo          |
-| --- | ------------ | ------------------------------------------------------------------------ | ------------- |
-| 01  | React Native | [Link](https://github.com/DeveloperRejaul/react-native-online-music-app) | [Link](#demo) |
-| 02  | Flutter      | [Link](https://github.com/DeveloperRejaul/flutter-online-music-app)      | [Link](#demo) |
-| 03  | Server       | [Link](https://github.com/DeveloperRejaul/nodejs-music-streaming-server) | [Link](#demo) |
+| #SL | Name         | Code                                                                     | Demo                                                                               |
+| --- | ------------ | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 01  | React Native | [Link](https://github.com/DeveloperRejaul/react-native-online-music-app) | [img](#demo-react-native) - [Youtube](https://www.youtube.com/watch?v=yPXlfTAY5qg) |
+| 02  | Flutter      | [Link](https://github.com/DeveloperRejaul/flutter-online-music-app)      | [img](#demo) - [Youtube](https://www.youtube.com/watch?v=yPXlfTAY5qg)              |
+| 03  | Server       | [Link](https://github.com/DeveloperRejaul/nodejs-music-streaming-server) | [img](#demo) - [Youtube](https://www.youtube.com/watch?v=yPXlfTAY5qg)              |
+
+# Demo React Native
+
+<p>
+<img src='./screen/screen1.jpg' height="400"/>
+<img src='./screen/screen2.jpg' height="400"/>
+<img src='./screen/screen3.jpg' height="400"/>
+<img src='./screen/screen4.jpg' height="400"/>
+<img src='./screen/screen5.jpg' height="400"/>
+<img src='./screen/screen6.jpg' height="400"/>
+<img src='./screen/screen7.jpg' height="400"/>
+<img src='./screen/screen8.jpg' height="400"/>
+<img src='./screen/screen9.jpg' height="400"/>
+</p>
 
 ## Features
 
@@ -116,20 +130,6 @@ flutter pub get
 ```
 flutter run
 ```
-
-# Demo
-
-<p>
-<img src='./screen/screen1.jpg' height="400"/>
-<img src='./screen/screen2.jpg' height="400"/>
-<img src='./screen/screen3.jpg' height="400"/>
-<img src='./screen/screen4.jpg' height="400"/>
-<img src='./screen/screen5.jpg' height="400"/>
-<img src='./screen/screen6.jpg' height="400"/>
-<img src='./screen/screen7.jpg' height="400"/>
-<img src='./screen/screen8.jpg' height="400"/>
-<img src='./screen/screen9.jpg' height="400"/>
-</p>
 
 ## Contributing
 
