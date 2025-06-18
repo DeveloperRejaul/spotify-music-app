@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+  @apply text-light-200 text-4xl font-bold text-center;
+}
+.sub-title {
+  @apply text-light-200 text-2xl font-bold text-center;
+}
+.btn {
+  @apply bg-success-900 w-full px-2 rounded-full py-4;
+}
+.btn-text {
+  @apply text-center text-light-100 font-bold text-xl;
+}
+.container {
+  @apply bg-dark-700 flex-1 px-5;
+}
+.center {
+  @apply justify-center items-center
+}
